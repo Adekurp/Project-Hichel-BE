@@ -17,6 +17,13 @@ To only install resolved dependencies in `package-lock.json`:
 ```sh
 npm ci
 ```
+## Make a database in mysql and input the database data in .env file
+
+## then migrate the database using 
+```sh
+npm run migrate
+```
+
 
 ## Run the application
 
